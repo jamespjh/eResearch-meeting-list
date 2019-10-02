@@ -3,7 +3,7 @@ frequency: Annual
 location: various, Germany
 link: https://www.de-rse.org/de/index.html
 previous:
-    date-from: 2019-06-04
-    date-to: 2019-06-06
-    location: Potsdam, Germany
-    link: https://www.de-rse.org/de/conf2019/index.html
+    - date-from: 2019-06-04
+      date-to: 2019-06-06
+      location: Potsdam, Germany
+      link: https://www.de-rse.org/de/conf2019/index.html

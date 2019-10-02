@@ -1,0 +1,6 @@
+name: Force11
+link: https://www.force11.org
+next:
+  date: 20191016-20191017
+  link: https://www.force11.org/meetings/force2019
+  location: Edinburgh, Scotland

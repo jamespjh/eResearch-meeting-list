@@ -10,5 +10,5 @@ This is a list of all the meeting series we know about in
 * Research Networks
 * Open Science and Open Data for Research
 * Scientific Software Development
-* Tech skills for reseeach, RSE, ResOps, Research Infrastructure Engineering
+* Tech skills for research, RSE, ResOps, Research Infrastructure Engineering
 * Research publishing beyond the PDF, software citation and preservation etc

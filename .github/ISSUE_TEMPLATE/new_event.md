@@ -4,6 +4,7 @@ about: Add a new event to our list
 ---
 <!-- Delete all these comments before submitting the issue -->
 <!-- Add your event here: replace "Name of Event" with the name of the event -->
+<!-- You don't have to write the yaml data file yourself if you don't want to: just fill in this issue template -->
 
 # Add a new event: (Name of Event)
 
@@ -14,15 +15,15 @@ Hello! I would like to add a new event.
 - URL: <!-- Add the public url of the event -->
 
 <!--
-  Please provide some justification and context for those who may not have heard of this event
+  It would be helpful if you could provide some context for those who may not have heard of this event
   - Why should this event be included in the list?
-  - what category
+  However, we'd rather have more events listed if you've not got time, so don't let this put you off.
 -->
 
 ## Checklist
 
 <!--
-  Help the maintainers to decide if this is a high-quality contribution by checking all
+  If you want to, you can help the maintainers to decide if this event belongs here by checking all
   of the below that apply
 -->
 
@@ -30,7 +31,6 @@ Hello! I would like to add a new event.
 - [ ] The last instance of the event was less than 5 years ago
 - [ ] The event has a public website
 - [ ] The event has an agenda with some form of published proceedings
-- [ ] The event published proceedings with persistent identifiers
 
 <!-- For maintainers: -->
 
@@ -39,5 +39,4 @@ Hello! I would like to add a new event.
 - Associated PR: <!-- if there is a PR open, mention it here -->
 - [ ] Yaml file added <!-- When the PR has the YAML file added, check this -->
   - [ ] YAML validated <!-- does the yaml file respect the schema? -->
-- [ ] [Schema.org/Event](https://schema.org/Event) JSON-LD added.
-  - [ ] JSON Validated <!-- Does the JSON respect the Schema.org Event Schema, and is it valid JSON-LD? -->
+

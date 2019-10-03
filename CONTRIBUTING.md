@@ -1,10 +1,9 @@
 # Contributing
 
 This is a community-maintained list of events -- it is inherently biased and incomplete.
-However, we would like it to be as unbiased and complete as possible, and this is only
-possible with contributions from the community.
+However, we would like it to be as unbiased and complete as possible, so please help us by making contributions.
 This file describes how we would like people to contribute, and what kind of contributions
-are desirable.
+are most helpful.
 
 ## Kinds of contributions
 
@@ -17,8 +16,7 @@ Kind of contribution | What you can do | How you should do it
 **Formatting and Maintenance** | Do you know of a "better" way of maintaining this information? Do you want to make a website for it? Do you want to write a FAQ or info page? We would love to discuss that. | Open an issue to discuss the topic
 **Community-building** | Do you have ideas about how the community itself could be enhanced and supported? We'd love to discuss that. | Open an issue to discuss the topic
 
-
 Just so we're clear, we also are not interested in the following kinds of contributions:
 
-- **Events out of scope**: Proposing an event that isn't quite aligned with our community might elicit a lukewarm response. Spamming or self-serving promotion will also not be welcomed.
-- **Abuse**: As always, be nice. If your contribution is not immediately accepted, please take a moment to remember that this is a purely volunteer effort. Any form of abuse or antisocial behaviour will not be tolerated.
+- **Events out of scope**: We're sure we'll receive events that are outside our scope. Please don't be offended if we reject a contribution that doesn't fit our mission.
+- **Abuse**: As always, be nice. If your contribution is not immediately accepted, please take a moment to remember that this is a purely volunteer effort. Any form of abuse or antisocial behaviour will not be tolerated.  Spamming or self-serving promotion will also not be welcomed.

@@ -19,5 +19,7 @@
 PreCommit:
   YamlLint:
     enabled: true
+  YamlSyntax:
+    enabled: true
   TrailingWhitespace:
     enabled: true

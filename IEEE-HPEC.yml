@@ -3,6 +3,6 @@ long-name: "IEEE High Performance Extreme Computing Conference"
 location: USA
 link: http://www.ieee-hpec.org/
 previous:
-   date-from: 2019-09-24
-   date-to: 2019-09-26
-   location: Waltham, MA USA
+    - date-from: 2019-09-24
+      date-to: 2019-09-26
+      location: Waltham, MA USA

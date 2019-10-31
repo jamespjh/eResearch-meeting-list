@@ -1,0 +1,10 @@
+name: PASC
+long-name: "The Platform for Advanced Scientific Computing (PASC) Conference"
+location: Switzerland
+link: https://www.pasc-conference.org/
+next:
+   name: PASC20
+   link: https://pasc20.pasc-conference.org/
+   date-from: 2020-06-29
+   date-to: 2020-07-01
+   location: Geneva, Switzerland

@@ -26,11 +26,12 @@ description: Master table of all meetings
 </tbody>
 </table>
 
+<script src="https://code.jquery.com/jquery-3.4.1.min.js"></script>
 <link href="https://cdn.datatables.net/1.10.20/css/dataTables.bootstrap4.min.css" rel="stylesheet" type="text/css" />
 <script src="https://cdn.datatables.net/1.10.20/js/jquery.dataTables.min.js"></script>
 <script src="https://cdn.datatables.net/1.10.20/js/dataTables.bootstrap4.min.js"></script>
 <script>
-$(document).ready(function() {
-  $('#meeting-table').DataTable();
+$('#meeting-table').DataTable({
+  "pageLength": 50
 });
 </script>

@@ -1,0 +1,11 @@
+- title: Documentation
+  url: docs
+  links:
+    - title: "Meetings"
+      url: "docs/meetings"
+    - title: "Table"
+      url: "docs/table"
+    - title: "About"
+      url: "about"
+    - title: "News"
+      url: "news"

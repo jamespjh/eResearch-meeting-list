@@ -20,8 +20,9 @@ description: Master list of all meetings
  - **Data From**: {{ meeting[1].next.date-from }}
  - **Data To**: {{ meeting[1].next.date-to }}
 {% endif %}
-{% endif %}
 
+<a href="{{ site.repo }}/edit/master/_data/{{ meeting[0] }}.yml" target="_blank"><i class="fa fa-edit fa-fw"></i> Edit this entry</a>
+{% endif %}
 <br>
 <hr>
 <br>{% endfor %}

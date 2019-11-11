@@ -1,6 +1,4 @@
 name: eScience
 link: https://escience-conference.org
-next:
-  date: !!timestamp 2020
-  link: TBD
-  location: Osaka, Japan
+next: TBA
+# 2020 in Osaka, Japan

@@ -13,6 +13,12 @@ This is a list of all the meeting series we know about in:
 * Tech skills for research, RSE, ResOps, Research Infrastructure Engineering
 * Research publishing beyond the PDF, software citation and preservation etc
 
+## Data Files
+
+Each meeting series is represented in a data file under [_data](_data). To
+add another file, simply add it to this folder in the same format, and it
+will render on the site.
+
 ## Contributing
 
 We welcome contributions and support from the community.

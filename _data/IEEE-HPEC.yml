@@ -2,7 +2,8 @@ name: IEEE HPEC
 long-name: "IEEE High Performance Extreme Computing Conference"
 location: USA
 link: http://www.ieee-hpec.org/
-previous:
-    - date-from: 2020-09-22
-      date-to: 2020-09-24
-      location: Waltham, MA USA
+next:
+  date-from: 2020-09-22
+  date-to: 2020-09-24
+  location: Waltham, MA USA
+  link: http://www.ieee-hpec.org/

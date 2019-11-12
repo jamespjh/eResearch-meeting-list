@@ -1,5 +1,7 @@
 # eResearch-meeting-list
 
+[![GitHub actions status](https://github.com/jamespjh/eResearch-meeting-list/workflows/CI/badge.svg?branch=master)](https://github.com/jamespjh/eResearch-meeting-list/actions?query=branch%3Amaster+workflow%3ACI)
+
 This is a list of all the meeting series we know about in:
 
 * eInfrastructure

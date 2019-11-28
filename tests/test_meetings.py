@@ -47,6 +47,11 @@ def test_meetings(tmp_path):
             print('Looking for %s in %s' % (required, name))
             assert required in event
 
+        # If a previous is included, must be list
+        if "previous" in event:
+            print("Checking that previous in %s in list" % name)
+            assert isinstance(event['previous'], list)
+
         for field in event.keys():
             if field not in requireds:
                 print('Warning: %s is a custom field in %s, not used.' % (name, field))   

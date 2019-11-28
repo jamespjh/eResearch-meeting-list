@@ -1,4 +1,13 @@
 name: eScience
 link: https://escience-conference.org
 next: TBA
-# 2020 in Osaka, Japan
+  date-from: 2020-09-08
+  date-to: 2020-09-11
+  link: http://escience2020.cmc.osaka-u.ac.jp
+  location: Osaka, Japan
+previous:
+  - date-from: 2019-09-24
+    date-to: 2019-09-27
+    link: https://escience2019.sdsc.edu
+    location: San Diego, California, USA
+

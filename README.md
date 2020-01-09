@@ -15,6 +15,8 @@ This is a list of all the meeting series we know about in:
 * Tech skills for research, RSE, ResOps, Research Infrastructure Engineering
 * Research publishing beyond the PDF, software citation and preservation etc
 
+It renders to [https://jamespjh.github.io/eResearch-meeting-list/](https://jamespjh.github.io/eResearch-meeting-list/) for now, but will be moved somewhere more official soon.
+
 ## Data Files
 
 Each meeting series is represented in a data file under [_data](_data). To

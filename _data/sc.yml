@@ -1,7 +1,12 @@
-name: Supercomputing 
+name: Supercomputing (SC)
 link: http://supercomputing.org
 next:
+  date-from: 2019-11-15
+  date-to: 2019-11-20
+  link: https://sc20.supercomputing.org
+  location: Atlanta, Georgia, USA
+previous:
   date-from: 2019-11-17
   date-to: 2019-11-22
-  link: http://supercomputing.org
-  location: Denver CO
+  link: https://sc19.supercomputing.org
+  location: Denver, Colorado, USA

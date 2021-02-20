@@ -65,14 +65,14 @@ entry:
 name: FORCE11
 link: https://www.force11.org
 previous:
-  - date-from: 2019-10-16
+  - date-from: 2019-10-15
     date-to: 2019-10-17
     link: https://www.force11.org/meetings/force2019
     location: Edinburgh, Scotland
-  - date-from: 2018-10-16
-    date-to: 2018-10-17
+  - date-from: 2018-10-10
+    date-to: 2018-10-12
     link: https://www.force11.org/meetings/force2018
-    location: Edinburgh, Scotland
+    location: Montreal, Canada
 ```
 
 You should generally use 2 spaces as a convention for files.
